@@ -131,7 +131,7 @@ Luego de conectarlo, configura tu computador para que las pantallas no se dupliq
 
 #### Usar otro dispositivo
 
-Si tienes una tablet, puedes conectarte a Zoom desde ella para mirar la clase y en paralelo trabajar en tu computador. Puedes intentarlo también usando tu teléfono móvil, pero es posible que se vea demasiado pequeño el código. Si optas por esta opción, la sugerencia es que te conectes a Zoom **desde ambos dispositivos**. Así, si en algún momento de la clase algo no te resulta, podrás compartir la pantalla para que podamos resolverlo.
+Si tienes una tablet, puedes conectarte a Zoom desde ella para mirar la clase y en paralelo trabajar en tu computador. Puedes intentarlo también usando tu teléfono móvil, pero es posible que se vea demasiado pequeño el código. 
 
 <p align="center">
 <img src="imagenes/compu-telefono.jpeg" width="400"/>
