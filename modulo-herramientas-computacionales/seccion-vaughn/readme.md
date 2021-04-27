@@ -1,9 +1,9 @@
 # Materiales y recursos
 
-## Clase 1
+### Clase 1
 
-**Material de apoyo**
+:clipboard: [script](http://bit.ly/dipDS-script-clase1-vaughn)
 
-:computer: [formato html](https://rivaquiroga.github.io/ClasesHCML/clase1-seccion-vaughn)
+:computer: [material de apoyo en formato html](https://rivaquiroga.github.io/ClasesHCML/clase1-seccion-vaughn)
 
-:card_index: [formato pdf](https://github.com/rivaquiroga/ClasesHCML/blob/secciones-riva/clase1-seccion-vaughn.pdf)
+:card_index: [material de apoyo en formato pdf](https://github.com/rivaquiroga/ClasesHCML/blob/secciones-riva/clase1-seccion-vaughn.pdf)
