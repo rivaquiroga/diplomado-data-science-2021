@@ -6,4 +6,4 @@
 
 :computer: [material de apoyo en formato html](https://rivaquiroga.github.io/ClasesHCML/clase1-seccion-vaughn)
 
-:card_index: [material de apoyo en formato pdf](https://github.com/rivaquiroga/ClasesHCML/blob/secciones-riva/clase1-seccion-vaughn.pdf)
+:card_index: El material de apoyo en formato pdf está disponible en la plataforma del curso
