@@ -1,0 +1,87 @@
+cod_tipologia,tipologia
+p,"Ejecución de obras, programas o actividades en parques nacionales, reservas nacionales, monumentos naturales, reservas de zonas vírgenes, santuarios de la naturaleza, parques marinos, reservas marinas o en cualesquiera otra área colocada bajo protección oficial, en los casos en que la legislación respectiva lo permita"
+i4,Proyecto de desarrollo minero sobre 5000 tons/mens
+o4,Plantas de tratamiento de aguas de origen domiciliario que atiendan a una población igual o mayor a 2500 habitantes
+o5,"Plantas de tratamiento y/o disposición de residuos sólidos de origen domiciliario, rellenos sanitarios y estaciones de transferencia que atiendan a una población igual o mayor a 5000 habitantes"
+m4,"Industrias de celulosas, de pasta de papel y de papel"
+j1,Oleoductos
+b1,Líneas de transmisión eléctrica de alto voltaje
+m1,Proyectos de desarrollo o explotación forestal en suelos frágiles o en terrenos cubiertos de bosque nativo serán aquellos que pretendan cualquier forma de aprovechamiento o cosecha final de los productos maderables del bosque
+e7,Autopistas
+n3,"Producción anual igual o mayor a (35ton) tratándose de equinodermos, crustáceos y moluscos no filtradores, peces y otras especies, a través de un sistema de producción intensivo"
+e6,Estaciones de servicios
+n2,Producción anual de moluscos filtradores u otras especies filtradoras
+o3,Sistemas de agua potable que comprendan obras que capten y conduzcan agua desde el lugar de captación hasta su entrega en el inmueble del usuario
+n6,Plantas Procesadoras de recursos hidrobiológicos
+j2,Gasoductos
+o1,"Sistemas de alcantarillado de aguas servidas, que atiendan a una población igual o mayor a 2500 habitantes"
+e1,Aeropuertos
+o7,"Sistemas de tratamiento y/o disposición de residuos industriales líquidos, que contemplen dentro de sus instalaciones lagunas de estabilización u otros depositos de los efluentes sin tratar y tratados"
+h1,Proyectos inmobiliarios
+t,Ingreso voluntario
+c,Centrales generadoras de energía mayores a 3 MW
+g4,Proyecto de desarrollo turístico (destinados en forma permanente al uso habitacional y/o de equipamiento para fines turísticos)
+g2,"Proyectos de equipamiento que correspondan a predios y/o edificios destinados en forma permanente a salud, educación, seguridad, culto, deporte, esparcimiento, cultura, transporte, comercio o servicios, y que contemplen al menos una de las siguientes especificaciones:"
+h2,Proyectos industriales
+g1,"Conjuntos habitacionales con una cantidad igual o superior a ochenta (80) viviendas o, tratándose de vivienda social, vivienda progresiva o infraestructura sanitaria, a ciento sesenta (160) viviendas"
+e5,Vías férreas
+i1,Extracción de pozos o canteras
+k1,Instalaciones fabriles sobre 2000 KVA
+m2,Plantas astilladoras
+ñ5,"Producción, almacenamiento, disposición o reutilización o transporte por medios terrestres, de sustancias corrosivas o reactivas, que se realicen con una periodicidad mensual o mayor, en una cantidad igual o superior a 120000 Kg/día"
+l2,Mataderos con una taza de faenación de  500 ton/mes
+o10,"Sistemas de tratamiento y/o disposición de residuos infecciosos generados por establecimientos de salud, con capacidad mayor o igual a 250 kg/día"
+l1,"Agroindustria, donde se realicen labores u operaciones de limpieza, clasificación de productos segun tamaño y calidad, tratamiento de deshidratación, congelamiento, empacamiento o transformación biológica, física o química"
+f4,Terminales marítimos
+ñ4,"Producción, almacenamiento, disposición o reutilización o transporte por medios terrestres de sustancias inflamables, (sustancias señaladas en las clases 3 y 4  de la NCh. 2120/Of. 89)"
+h6,Planes seccionales
+o8,Sistemas de tratamiento y/o disposición de residuos industriales sólidos
+ñ3,"Producción, almacenamiento, disposición o reutilización o trasporte por medios terrestres de sustancias explosivas, (sustancias señaladas en la Clase 1.1 de la NCh. 382, Of. 89)"
+n5,"Producción anual de engorda de peces 8 ton o cultivo de microalgas y juveniles de otros recursos hidrobiológicos que requieran el suministro y/o evacuación de aguas de origen terrestre, marina o estuarina, cualquiera sea su producción anual"
+j3,Ductos mineros
+l4,"Planteles y establos de crianza, engorda, postura y/o reproducción de animales"
+e2,Terminales de buses
+h5,Planes reguladores comunales
+e3,Terminales de camiones
+m3,Aserraderos y plantas elaboradoras de madera
+s,Obras que se concesionen para construir y explorar el subsuelo de los bienes nacionales de uso público
+l3,"Planteles y establos de crianza, lechería y/o engorda de animales => 300 unidades de animal por más de un mes"
+f3,Astilleros
+g3,"Urbanizaciones y/o loteos con destino industrial de una superficie igual o mayor a 30,000 mt2"
+o6,Emisarios submarinos
+o2,"Sistemas de alcantarillado o evacuación de aguas lluvias, cuando se interconecten con redes de alcantarillado de aguas servidas"
+a1,Presas y embalses
+i2,Extracciones en un cuerpo o curso de agua
+a3,Dragado
+l5,"Planteles y establos de crianza, lechería y engorda de otros animales, con capacidad para alojar diariamente una cantidad en peso vivo, igual o superior a (50t)"
+a2,Drenaje o desecación
+ñ1,"Producción, almacenamiento, disposición o reutilización o transporte por medios terrestres de sustancias tóxicas, (sustancias señaladas en la Clase 6,1 de la NCh. 382, Of. 89)"
+f1,Puertos (agua)
+b2,Subestaciones
+k2,Instalaciones fabriles de curtiembres cuya capacidad de producción es superior a 30 mt2/día
+o9,"Plantas de tratamiento y/o disposición de residuos peligrosos, incluidos los infecciosos"
+h4,Plan intercomunal
+o11,"Reparación o recuperación de terrenos que contengan contaminantes, que abarquen, una superficie igual o mayor a 10000m2"
+n1,Producción anual de pelillo u otras macroalgas
+e4,Terminales de ferrocarriles
+e8,Caminos públicos que puedan afectar áreas protegidas
+ñ6,Transporte por medios terrestres de sustancias radiactivas
+a4,Defensa o alteración de un cuerpo o curso de aguas terrestres
+j4,Ductos análogos
+d,Reactores y establecimientos nucleares e instalaciones relacionadas
+l,"Agroindustrias, mataderos, planteles y establos de crianza, lechería y engorda de animales, de dimensiones industriales. Se entenderá que estos proyectos o actividades son de dimensiones industriales cuando se trate de:"
+n4,Producción anual (15 ton) cuando el cultivo se realice en ríos navegables en la zona no afecta a marea o en ríos no navegables en la zona no afecta a marea
+r,Cotos de caza
+a6,Sifones
+a5,Acueductos
+i5,Proyectos de desarrollo minero de petróleo y gas
+g,"Proyectos de desarrollo urbano o turístico, en zonas no comprendidas en alguno de los planes a que alude la letra h) del artículo 10 de la Ley"
+i3,Extracciones de turba
+ñ2,"Producción, almacenamiento, disposición o reutilización de sustancias radiactivas en forma de fuentes no selladas o fuentes selladas de material dispersable, en cantidades superiores a los límites A2 del D.S. N°12/85, o superiores a 5000 A1 para el caso de fuentes selladas no dispersables"
+h3,Plan regional de desarrollo urbano
+n7,Proyectos de explotación intensiva de recursos hidrobiológicos
+f,"Puertos, vías de navegación, astilleros y terminales marítimos"
+i,"Proyectos de desarrollo minero, incluidos los de carbón, petróleo y gas, comprendiendo las prospecciones, explotaciones, plantas procesadoras y disposición de residuos estériles"
+u,Ingreso voluntario
+a7,Acueductos
+ñ7,Transporte por medios terrestres de sustancias radioactivas
